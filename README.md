@@ -31,6 +31,9 @@ project. For example:
 * Briefly explain your coding conventions (such as [PEP8][1] or
   [CoffeeScript Style Guide][2])
 
+[More info][3]
+
 
 [1]: http://www.python.org/dev/peps/pep-0008/
 [2]: https://github.com/polarmobile/coffeescript-style-guide
+[3]: http://www.104.com.tw/jobbank/custjob/index.php?r=job&j=375f416c5d353e55303139622f2d361753b39422633353f2020202020373a2524290j55
